@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b13583&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mel+Plens;I'm+20+years+old;I+Graduated+Análise+e+desenvolvimento+de+sistemas;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mel+Plens;I'm+20+years+old;I+Graduated+Análise+e+desenvolvimento+de+sistemas+Product+Management+Administração+Gestão+de+Projetos;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MelPLens&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -20,7 +20,7 @@
 
 
 <h3 align="center">
-  FullStack Developer • Estudante de ADS
+  PRODUCT - DESIGN - DADOS - PROJETOS
 </h3>
 
 
@@ -28,25 +28,23 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-### 👩‍💻 &nbsp;Back-End
 
-![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
-![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
-![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
+###  &nbsp;Conhecimentos
 
-### 🎨 &nbsp;Front-end
-
-![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
-![React Native](https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
 - JavaScript
+- Java
+- AWS
+- HTML
+- CSS
+- FIGMA
+- SCRUM
+- KANBAN
+- PRODUCT
 
 
 ### Studying in this moment:
 
-  <img align="center" alt="Mel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ Curso PRODUCT MANAGEMENT PM3
 
 
 
